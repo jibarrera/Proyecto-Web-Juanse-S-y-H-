@@ -1,5 +1,7 @@
 # Proyecto-Web-Juanse-S-y-H- Gestion Integral de Seguridad e Higiene Ambiental
 
+![image](https://github.com/jibarrera/Proyecto-Web-Juanse-S-y-H-/assets/51324038/c5a29902-27fd-47ea-a45d-1baef8af36bb)
+
 Sitio Web Institucional y profesional para la Pyme "JUANSE S y H". La cual se dedican a la gestión integral de Seguridad e Higiene Ambiental e Industrial.
 
 La tecnologías utilizadas para el desarrollo de este sitio son: HTML, CSS, Javascript, Bootstrap, PHP, Figma.
@@ -10,8 +12,10 @@ Mi rol es este proyecto fue de Desarrollador desde el lado del cliente (FRONTEND
 
 Link del Deploy: https://juanse-seguridad-e-higieneambiental.netlify.app/  
 
+Link del Código en Github: https://github.com/jibarrera/Proyecto-Web-Juanse-S-y-H-
+
 Código QR para que lo puedas escanear: ![image](https://github.com/jibarrera/Proyecto-Web-Juanse-S-y-H-/assets/51324038/5b5e3e16-f709-4f26-abbd-f91025eaf383)
 
 
-![image](https://github.com/jibarrera/Proyecto-Web-Juanse-S-y-H-/assets/51324038/c5a29902-27fd-47ea-a45d-1baef8af36bb)
+
 
