@@ -8,7 +8,10 @@ Objetivo del Sitio: Este sitio fue desarrollado con el objetivo de conseguir y a
 
 Mi rol es este proyecto fue de Desarrollador desde el lado del cliente (FRONTEND) y desde el lado del servidor (BACKEND), así como tambien de diseñador web.
 
-Link del Deploy: 
+Link del Deploy: https://juanse-seguridad-e-higieneambiental.netlify.app/
+
+Código QR para que lo puedas escanear: ![image](https://github.com/jibarrera/Proyecto-Web-Juanse-S-y-H-/assets/51324038/5b5e3e16-f709-4f26-abbd-f91025eaf383)
+
 
 ![image](https://github.com/jibarrera/Proyecto-Web-Juanse-S-y-H-/assets/51324038/c5a29902-27fd-47ea-a45d-1baef8af36bb)
 
