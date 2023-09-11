@@ -1,6 +1,6 @@
 # Proyecto-Web-Juanse-S-y-H- Gestion Integral de Seguridad e Higiene Ambiental
 
-Sitio Web Institucional y profesional para la Pyme "JUANSE S y H". La cuak se deducan a la gestión integral de Seguridad e Higiene Ambiental e Industrial.
+Sitio Web Institucional y profesional para la Pyme "JUANSE S y H". La cual se dedican a la gestión integral de Seguridad e Higiene Ambiental e Industrial.
 
 La tecnologías utilizadas para el desarrollo de este sitio son: HTML, CSS, Javascript, Bootstrap, PHP, Figma.
 
